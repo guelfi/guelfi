@@ -11,7 +11,7 @@
 ## O que eu entrego
 
 - **Back-end robusto em C#/.NET Core e Java** — APIs REST, integrações corporativas e sistemas de missão crítica
-- **Integração de sistemas** — TOTVS/RM.Labore, Sensedia API Management, Oracle/Winthor, VAPZA
+- **Integração de sistemas** — TOTVS/RM.Labore, Sensedia API Management, Oracle/Winthor
 - **Liderança técnica** — direção de equipes e projetos, do entendimento do negócio à entrega em produção
 - **Visão de produto** — Product Owner com histórico comprovado: transformo requisitos de negócio em especificação executável
 - **Infraestrutura e DevOps** — Docker, Linux, Nginx, CI/CD com GitHub Actions, Azure e Oracle Cloud
