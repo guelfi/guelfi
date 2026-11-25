@@ -46,4 +46,4 @@ Produtos SaaS que especifiquei, desenvolvi e mantenho em produção:
 
 ---
 
-📄 **[Currículo completo (PDF)](https://www.guelfi.com.br/assets/cv/Marco-Guelfi-CV2026.pdf)** · Disponibilidade imediata (negociável) · PJ ou CLT
+📄 **[Currículo completo (PDF)](https://www.guelfi.com.br/assets/cv/Marco-Guelfi-CV2026.pdf)** · Disponível para novos projetos, parcerias e oportunidades freelance/remoto
