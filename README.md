@@ -1,40 +1,49 @@
 # Marco Guelfi
 
-**Analista de Sistemas · Tech Lead · Full Stack Developer**
+**Analista de Sistemas · Tech Lead · Desenvolvedor Full Stack Sênior C#/.NET**
 
 +35 anos transformando necessidades de negócio em software — do MS-DOS à era da IA.
 
-🌐 Site pessoal: [guelfi.com.br](https://www.guelfi.com.br) · 💼 [LinkedIn](https://www.linkedin.com/in/mguelfi/) · 📧 guelfi@msn.com
+🌐 [guelfi.com.br](https://www.guelfi.com.br) · 💼 [LinkedIn](https://www.linkedin.com/in/mguelfi/) · 📧 guelfi@msn.com · 📱 (11) 97574-7470
 
 ---
 
-## Sobre mim
+## O que eu entrego
 
-Comecei em 1990 desenvolvendo em MS-DOS com Clipper, COBOL, C/C++ e Basic. Em 1996 migrei para Windows com Visual Basic e Delphi, e desde o lançamento do .NET em 2003 construí minha base em C#. Hoje concilio o papel de Analista de Sistemas com o de criador e mantenedor de produtos SaaS próprios.
-
-Tenho como marca a liderança técnica natural — no relacionamento com equipes, na facilidade de dominar novas tecnologias e na visão de negócio para especificar produtos, entendendo a necessidade real por trás da tecnologia. Autodidata, resiliente e movido por resolução de problemas.
+- **Back-end robusto em C#/.NET Core e Java** — APIs REST, integrações corporativas e sistemas de missão crítica
+- **Integração de sistemas** — TOTVS/RM.Labore, Sensedia API Management, Oracle/Winthor, VAPZA
+- **Liderança técnica** — direção de equipes e projetos, do entendimento do negócio à entrega em produção
+- **Visão de produto** — Product Owner com histórico comprovado: transformo requisitos de negócio em especificação executável
+- **Infraestrutura e DevOps** — Docker, Linux, Nginx, CI/CD com GitHub Actions, Azure e Oracle Cloud
 
 ## Experiência atual
 
-- **Desenvolvedor Sênior C#/.NET/Java** — Xipptech / Xipp Benefícios *(Abr/2026 — atual)*
-- **Product Owner** — Mobicard, plataforma de cartões de visita digital *(Mar/2022 — atual)*
+- **Desenvolvedor Sênior** — **Xipptech / Xipp Benefícios** *(Abr/2026 — atual)*: desenvolvimento e evolução dos produtos **MeuRH360** em C#/.NET Core e **RH Protegido / EU Protegido** em Java, em ambiente de benefícios corporativos
+- **Product Owner** — **Mobicard** *(Mar/2022 — atual)*: plataforma de cartões de visita digital no ar e captando clientes — [mobicard.com.br](https://www.mobicard.com.br)
 
 ### Trajetória recente
 
-- **Analista de Sistemas** — EBD — Empresa Brasileira de Distribuição *(Ago/2025 — Mar/2026)*: integrações (RM.Labore/TOTVS, VAPZA, Sensedia), automações em Python e consultas Oracle/Winthor
-- **Tech Lead** — Kulltech *(2024)*: .NET Core/C# com SQL Server em back-end e API REST
-- **Tech Lead** — Lis2b / HeadsOn *(Nov/2022 — Abr/2024)*: Azure DevOps, Docker/Linux, C/C++ com ISO8583 para instituição financeira e sistema SLC (MongoDB + C#) para banco digital
-
-## Stack
-
-`C#` `.NET` `Java` `Python` `C/C++` `JavaScript/TypeScript` `SQL Server` `Oracle` `MongoDB` `Docker` `Nginx` `GitHub Actions` `Linux` `Azure DevOps` `CI/CD`
+| Período | Papel | Empresa |
+|---|---|---|
+| Ago/2025 — Mar/2026 | Analista de Sistemas | EBD — implantação de sistemas, integrações TOTVS/VAPZA/Sensedia, automações Python, Oracle/Winthor |
+| 2024 | Tech Lead | Kulltech — .NET Core/C# com SQL Server, back-end e API REST |
+| Nov/2022 — Abr/2024 | Tech Lead | Lis2b/HeadsOn — C/C++ ISO8583 para instituição financeira, SLC (MongoDB + C#) para banco digital, Azure DevOps |
 
 ## Projetos próprios
 
-- **[Batuara.net](https://github.com/guelfi/Batuara.net)** — SaaS de gestão espiritual/religiosa
+Produtos SaaS que especifiquei, desenvolvi e mantenho em produção:
+
+- **[Mobicard](https://mobicard.com.br)** — cartões de visita digitais *(em produção, captando clientes)*
+- **[Batuara.net](https://github.com/guelfi/Batuara.net)** — SaaS de gestão para terreiros e casas espirituais
 - **[Alugue.me](https://github.com/guelfi/allugme)** — plataforma de aluguel de itens entre pessoas
-- **[HealthCore](https://github.com/guelfi/HealthCore)** — sistema de gestão para clínicas
-- **[Unisystem](https://github.com/guelfi/Unisystem)** — sistema de gestão em produção
-- **[HakoInteriores](https://github.com/guelfi/HakoInteriores)** — site institucional em produção
+- **[HealthCore](https://github.com/guelfi/HealthCore)** — gestão para clínicas e consultórios
+- **[Unisystem](https://github.com/guelfi/Unisystem)** — sistema de gestão *(em produção)*
 - **[Barbear.IA](https://github.com/guelfi/Barbear.IA)** — agendamento inteligente para barbearias
-- **[Mobicard](https://mobicard.com.br)** — cartões de visita digitais (Product Owner)
+
+## Stack
+
+`C#` `.NET / .NET Core` `Java` `Python` `C/C++` `JavaScript/TypeScript` `Node.js` `React` `SQL Server` `Oracle` `MongoDB` `PostgreSQL` `MySQL` `Docker` `Nginx` `Linux` `Azure` `Oracle Cloud` `GitHub Actions` `CI/CD` `SCRUM`
+
+---
+
+📄 **[Currículo completo (PDF)](https://www.guelfi.com.br/assets/cv/Marco-Guelfi-CV2026.pdf)** · Disponibilidade imediata (negociável) · PJ ou CLT
